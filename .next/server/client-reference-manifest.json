@@ -141,9 +141,9 @@
     }
   },
   "entryCSSFiles": {
-    "C:\\Users\\computer\\Desktop\\glovo\\src\\app\\page": [],
     "C:\\Users\\computer\\Desktop\\glovo\\src\\app\\layout": [
       "static/css/app/layout.css"
-    ]
+    ],
+    "C:\\Users\\computer\\Desktop\\glovo\\src\\app\\page": []
   }
 }
